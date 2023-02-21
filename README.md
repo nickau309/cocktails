@@ -30,6 +30,6 @@ Tailwind CSS and Headless UI are used for the styling of the project. The origin
 - Headless UI
 - Tailwind CSS
 
-## Web API used
+## Web APIs used
 - Fetch API
 - `window.scrollTo()`
